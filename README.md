@@ -1,4 +1,4 @@
-# Simple Bash Script For Automatic Graylog Databases Backup.
+# Simple Bash Script For Automatic Databases Backup.
 #### Databases: elasticsearch and mongodb
 #### All backups save in local system.
 #### Can get snapshot specific index. 
